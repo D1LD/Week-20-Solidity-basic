@@ -1,7 +1,6 @@
 # Unit 20 - "Joint Savings Account"
 
-![alt=“”](Images/20-5-challenge-image.png)
-
+![20-5-challenge-image](https://user-images.githubusercontent.com/110899660/211762588-0e1f4034-da51-4186-875b-f6f82a729511.png)
 ### Background
 
 A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
@@ -27,6 +26,8 @@ The steps for this homework are divided into the following sections:
 #### Step 1: Create a Joint Savings Account Contract in Solidity
 
 1. From the provided [starter code](Starter_Code), open the Solidity file named `joint_savings.sol` in the Remix IDE.
+
+![Alt text]
 
 2. Define a new contract named `JointSavings`.
 
@@ -108,4 +109,25 @@ To interact with your deployed smart contract, complete the following steps:
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+1Compile
+<img width="365" alt="Screen Shot 2023-01-11 at 7 12 59 pm" src="https://user-images.githubusercontent.com/110899660/211761754-3c3cf6f7-4339-4d28-8d8d-d4f2accc9ddf.png">
+2Deploy
+<img width="367" alt="Screen Shot 2023-01-11 at 7 20 50 pm" src="https://user-images.githubusercontent.com/110899660/211761920-164c7fb0-e56c-4323-8fd9-a7ce32173c03.png">
+3 2 Accounts
+<img width="346" alt="Screen Shot 2023-01-11 at 7 22 54 pm" src="https://user-images.githubusercontent.com/110899660/211762004-ca9f25f3-509a-4b9e-ba0f-f42ea8d7e066.png">
+
+4 transfer 1 Eth in Wei
+![Screen Shot 2023-01-11 at 7 45 30 pm](https://user-images.githubusercontent.com/110899660/211762150-c4b84d1b-62c5-417b-ae88-c67f0f54a491.png)
+
+5 Transfer 10Eth in Wei
+![Screen Shot 2023-01-11 at 7 46 29 pm](https://user-images.githubusercontent.com/110899660/211762253-435d2276-1f42-475d-aa6d-8c65f3d9e1be.png)
+
+6 Transfer 5Eth in Wei
+![Screen Shot 2023-01-11 at 7 47 03 pm](https://user-images.githubusercontent.com/110899660/211762343-54430ec1-9fe2-4365-8d23-db55e7c6282d.png)
+
+
+
+
+
 
